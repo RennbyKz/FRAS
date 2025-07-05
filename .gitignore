@@ -371,3 +371,8 @@ FodyWeavers.xsd
 
 # Except for the specific file you want to share
 !App_Data/UCSPDB.mdf
+
+studentsphotos/
+teachersphotos/
+TrainingImages/
+
